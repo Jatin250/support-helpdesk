@@ -11,8 +11,8 @@
         - Role-based access control (User vs Manager)
     """,
     "category": "Operations/Helpdesk",
-    "author": "Jatin Pal",
-    # "website": "https://www.yourwebsite.com",
+    "author": "Digimonk Technologies",
+    "website": "https://digimonk.in/",
     "license": "LGPL-3",
     "depends": ["base", "mail"],
     "data": [
